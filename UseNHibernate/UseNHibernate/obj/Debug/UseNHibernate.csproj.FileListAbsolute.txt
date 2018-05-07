@@ -10,3 +10,6 @@ C:\Users\Sunxianzheng\Desktop\ServerDemo\photonGameServer\UseNHibernate\UseNHibe
 C:\Users\Sunxianzheng\Desktop\ServerDemo\photonGameServer\UseNHibernate\UseNHibernate\bin\Debug\Iesi.Collections.dll
 C:\Users\Sunxianzheng\Desktop\ServerDemo\photonGameServer\UseNHibernate\UseNHibernate\bin\Debug\Iesi.Collections.xml
 C:\Users\Sunxianzheng\Desktop\ServerDemo\photonGameServer\UseNHibernate\UseNHibernate\bin\Debug\hibernate.cfg.xml
+E:\GitHubProject\UseNHibernate\UseNHibernate\UseNHibernate\bin\Debug\UseNHibernate.exe.config
+E:\GitHubProject\UseNHibernate\UseNHibernate\UseNHibernate\obj\Debug\UseNHibernate.exe
+E:\GitHubProject\UseNHibernate\UseNHibernate\UseNHibernate\obj\Debug\UseNHibernate.pdb

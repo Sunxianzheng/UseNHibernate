@@ -17,10 +17,6 @@ namespace UseNHibernate.Manager
         /// <param name="user"></param>
         public void Add(userInfo user)
         {
-            //ISession session = NhibernateHelper.openSession();
-            //session.Save(user);
-            //session.Close();
-
             //调用NhibernateHelper 辅助类中的方法 会自动关闭  
             using (ISession session = NhibernateHelper.openSession())
             {
