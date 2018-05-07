@@ -1,0 +1,12 @@
+C:\Users\Sunxianzheng\Desktop\ServerDemo\photonGameServer\UseNHibernate\UseNHibernate\bin\Debug\UseNHibernate.exe.config
+C:\Users\Sunxianzheng\Desktop\ServerDemo\photonGameServer\UseNHibernate\UseNHibernate\bin\Debug\UseNHibernate.exe
+C:\Users\Sunxianzheng\Desktop\ServerDemo\photonGameServer\UseNHibernate\UseNHibernate\bin\Debug\UseNHibernate.pdb
+C:\Users\Sunxianzheng\Desktop\ServerDemo\photonGameServer\UseNHibernate\UseNHibernate\bin\Debug\MySql.Data.dll
+C:\Users\Sunxianzheng\Desktop\ServerDemo\photonGameServer\UseNHibernate\UseNHibernate\bin\Debug\NHibernate.dll
+C:\Users\Sunxianzheng\Desktop\ServerDemo\photonGameServer\UseNHibernate\UseNHibernate\bin\Debug\MySql.Data.xml
+C:\Users\Sunxianzheng\Desktop\ServerDemo\photonGameServer\UseNHibernate\UseNHibernate\obj\Debug\UseNHibernate.exe
+C:\Users\Sunxianzheng\Desktop\ServerDemo\photonGameServer\UseNHibernate\UseNHibernate\obj\Debug\UseNHibernate.pdb
+C:\Users\Sunxianzheng\Desktop\ServerDemo\photonGameServer\UseNHibernate\UseNHibernate\obj\Debug\UseNHibernate.csprojResolveAssemblyReference.cache
+C:\Users\Sunxianzheng\Desktop\ServerDemo\photonGameServer\UseNHibernate\UseNHibernate\bin\Debug\Iesi.Collections.dll
+C:\Users\Sunxianzheng\Desktop\ServerDemo\photonGameServer\UseNHibernate\UseNHibernate\bin\Debug\Iesi.Collections.xml
+C:\Users\Sunxianzheng\Desktop\ServerDemo\photonGameServer\UseNHibernate\UseNHibernate\bin\Debug\hibernate.cfg.xml
